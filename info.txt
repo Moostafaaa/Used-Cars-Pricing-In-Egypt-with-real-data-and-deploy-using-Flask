@@ -1,0 +1,1 @@
+https://egypt-car-price-predict.herokuapp.com/cars/predict
