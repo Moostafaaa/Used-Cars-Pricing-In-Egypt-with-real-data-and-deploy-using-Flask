@@ -1,1 +1,21 @@
-
+0- In this project, we will work with used cars dataset that has been scrapped with BeautufulSoup library from an Egyptian used cars website . This site has a lot of used cars ads in Egypt. So the project will focus on Egyptian used cars market. The target is to predict the car price range for either the buyer or the seller so they both can benefit from this service.
+1- Data Understanding:
+This dataset has 8 columns ( Make: manufacturer of vehicle, Model: model of vehicle, year: used since this year, CC: cubic centimeter or engine displacement which is a feature of the engine power, distance: the kilometers that the car traveled, transmission: manual or automatic gearbox, color: the color of the car, price: the car price )
+note: all cars are gas fuel Sedan cars type. The prices are by EGP.
+2- Data cleaning :  
+2.1 - Numerical and Categorical values handling
+2.2 - Handling Outliers
+2.3 - Missing Values
+2.4 - Handling Duplicated values
+3- EDA and Visualization
+3.1 Different car manufacturers price analysis
+3.2 what the top 10 most expensive cars?
+3.3 what is the mean price for each maker and each model ?
+3.4 what are the most frequent colors for most expensive cars?
+3.5 how the year of use affect the prices ?
+3.6 Finding the best price of a model for each year
+4- Data Preprocessing
+4.1 Data Encoding
+4.2 Data Scaling
+5- Different ML models
+6- Cross Validation and Hyperparameter
